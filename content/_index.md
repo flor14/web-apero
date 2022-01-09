@@ -1,7 +1,7 @@
 ---
 title: "Florencia D'Andrea"
-subtitle: "Postdoc Teaching and Learning Fellow"
-description: "Master of Data Science program - University of British Columbia"
+subtitle: "Postdoc - Master of Data Science program - University of British Columbia"
+description: "Argentina working in Vancouver, Canada"
 images:
   - img/vancouver_pic.jpg
 image_left: false
