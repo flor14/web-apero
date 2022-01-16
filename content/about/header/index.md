@@ -3,12 +3,10 @@
 text_align_right: false
 show_title_as_headline: false
 headline: |
-  Welcome 
+  Welcome! Nice to meet you 
 ---
 
 <!-- this is a subheadline -->
-Nice to meet you!
-
 I’m a postdoctoral teaching and learning fellow scientist working in the [Master of Data Science program](https://masterdatascience.ubc.ca/) at the [University of British Columbia](https://www.ubc.ca/). My past research interests include ecotoxicology, specializing in Pesticide Risk Assessment where I used a model to simulate the environmental fate of pesticides.  
 
 In order to address the challenges of my Ph.D, I got very involved in programming. Along the way I realized the importance of high quality software development, even more when model results are influential in decision making processes. That is why, in recent years my main interests have been code reproducibility, interactive data visualization, and software development.
