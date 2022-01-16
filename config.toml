@@ -31,9 +31,9 @@ enableEmoji = true
   orgName = "Florencia D'Andrea"
   orgLocal = ""
   description = "Postdoc - Master of Data Science Program - University of British Columnbia"
-  favicon = "/img/favicon.ico"
-  logo = "/img/blogophonic-mark-dark.png"
-  mainSections = ["blog"] #podria ser una lista de secciones
+  favicon = "/img/branch-with-a-leaf-and-a-seed.png"
+  logo = "/img/branch-with-a-leaf-and-a-seed-large.png"
+  mainSections = [] #podria ser una lista de secciones "blog"
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]
@@ -151,11 +151,11 @@ enableEmoji = true
     title = "Contact form"
     url = "/contact/"
     weight = 2
-  [[menu.footer]]
-    name = "Contributors"
-    title = "Contributors"
-    url = "/contributors/"
-    weight = 3
+ # [[menu.footer]]
+ #   name = "Contributors"
+  #  title = "Contributors"
+  #  url = "/contributors/"
+  #  weight = 3
 
 # see https://gohugo.io/about/hugo-and-gdpr/
 [privacy]

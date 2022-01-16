@@ -1,5 +1,6 @@
 ---
 title: 'Sharing reproducible and interactive environments in R with Binder'
+layout: single-sidebar
 author: Florencia D'Andrea
 date: '2020-08-28'
 slug: sharing-reproducible-and-interactive-environments-in-r-with-binder.en-us
@@ -7,15 +8,13 @@ categories: ["Reproducibility"]
 tags: ["Shiny", "Binder", "RStudio", "environments", "LearnR", "interactive", "LatinR", "ReproHack"]
 subtitle: ''
 summary: 'Shiny apps, RStudio projects and more'
-authors: []
 lastmod: '2021-02-05T22:47:32-03:00'
-featured: no
-header:
-  image:  "https://res.cloudinary.com/flor/image/upload/v1598698772/github_squares_c9trzb.png"
-  caption: ''
-  focal_point: ''
-  preview_only: true
-projects: []
+featured: yes
+image:  
+  caption: '[Hi](https://res.cloudinary.com/flor/image/upload/v1598698772/github_squares_c9trzb.png)'
+  focal_point: 'Center'
+  placement: 2
+  preview_only: no
 ---
 
 ## Working in a reproducible manner
