@@ -119,11 +119,11 @@ enableEmoji = true
  #   title = "Blog"
  #   url = "/blog/"
  #   weight = 2
- # [[menu.header]]
- #   name = "Projects"
- #   title = "Project Portfolio"
- #   url = "/project/"
- #   weight = 3
+  [[menu.header]]
+    name = "Projects"
+    title = "Project Portfolio"
+    url = "/project/"
+    weight = 2
  # [[menu.header]]
  #   name = "Talks"
  #   title = "Talks"
@@ -179,3 +179,7 @@ enableEmoji = true
   [privacy.youtube]
     disable = false
     privacyEnhanced = true
+
+# Solve bug
+[security.funcs]
+getenv = [ "^HUGO_", "^WC_" ]
