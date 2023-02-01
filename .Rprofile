@@ -20,6 +20,7 @@ options(
   blogdown.author = "Florencia D'Andrea",
   blogdown.ext = ".Rmarkdown",
   blogdown.subdir = "post"
+
 )
 
 # fix Hugo version

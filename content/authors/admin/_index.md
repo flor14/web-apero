@@ -54,4 +54,4 @@ My field of work has been ecotoxicology, specializing in Pesticide Risk Assessme
 
 I have a teaching degree at the University the Buenos Aires. She has been an instructor for The Carpentries and is an RStudio Certified Trainer for Tidyverse and Shiny. 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+ # {{<icon name="download" pack="fas">}} Download my {{<staticref "media/demo_resume.pdf" "newtab">}}resumé{{</staticref>}}.

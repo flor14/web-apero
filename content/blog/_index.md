@@ -1,9 +1,9 @@
 ---
 title: Blog
 description: |
-  Some post are new, and some are old.
+  .
 author: "Florencia D'Andrea"
-show_post_thumbnail: true
+show_post_thumbnail: false
 thumbnail_left: false # for list-sidebar only
 show_author_byline: false
 show_post_date: true
@@ -12,9 +12,9 @@ layout: list-sidebar # list, list-sidebar, list-grid
 
 # for list-sidebar layout
 sidebar: 
-  title: Some blogposts
+  title: Posts
   description: |
-    Some post are new, and some are old.
+           2020 and 2023
   author: "Florencia D'Andrea"
   text_link_label: Subscribe via RSS
   text_link_url: /index.xml

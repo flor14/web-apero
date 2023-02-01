@@ -10,11 +10,11 @@ subtitle: ''
 summary: 'Shiny apps, RStudio projects and more'
 lastmod: '2021-02-05T22:47:32-03:00'
 featured: yes
-image:  
-  caption: '[Hi](https://res.cloudinary.com/flor/image/upload/v1598698772/github_squares_c9trzb.png)'
-  focal_point: 'Center'
-  placement: 2
-  preview_only: no
+#image:  
+#  caption: '[Hi](https://res.cloudinary.com/flor/image/upload/v1598698772/github_squares_c9trzb.png)'
+#  focal_point: 'Center'
+#  placement: 2
+#  preview_only: no
 ---
 
 ## Working in a reproducible manner
@@ -27,7 +27,7 @@ This has led me to read about computational reproducibility tools and get involv
 ## Binder and R?
 
 
-<iframe src="https://flor14.github.io/reproducibility_slides_en/binder_reproducible_environments.html#16" width="672" height="400px"></iframe>
+<iframe src="https://flor14.github.io/reproducibility_slides_en/binder_reproducible_environments.html#16" width="672" height="400px" data-external="1"></iframe>
 
 I got to know [Binder](https://mybinder.readthedocs.io/en/latest/faq.html) thanks to the [Ines Montani tutorial framework](https://github.com/ines/course-starter-r). In this framework, Binder allows you to run the code of the exercises interactively. 
 
@@ -64,7 +64,7 @@ In these slides you can find:
 * Steps to share interactive environments with Binder.
 
 
-<iframe src="https://flor14.github.io/reproducibility_slides_en/binder_reproducible_environments.html#21" width="672" height="400px"></iframe>
+<iframe src="https://flor14.github.io/reproducibility_slides_en/binder_reproducible_environments.html#21" width="672" height="400px" data-external="1"></iframe>
 
 Slides in [English](https://flor14.github.io/reproducibility_slides_en/binder_reproducible_environments.html#1).
 
