@@ -182,7 +182,7 @@ In my opinion the hardest part to work with Git is the complexity and amount of 
   
 Not only instructors have to consciously define the mental model that we want to build with the students on advance, if not that each mental model can have different stages or advanced representations, and necessary more than one mental model should be introduced to cover an advanced course.
 
-> I have created a special project called "Teaching Git" that will cover how this must evolve.
+> I have created a special project called ["Git Teaching Kit"](git-teaching-kit.netlify.app)
 
 ### Some final ideas:
 - **Educators should define in advance one (or more) Git representations they are expecting the students to manage at the end of a course.**
