@@ -12,4 +12,4 @@ title: Teaching Git and GitHub
 ---
 
 
-- You can find the web under construction here: [https://git-teaching-kit.netlify.app/](https://git-teaching-kit.netlify.app/)
+- You can find the link to the project here: [https://git-teaching-kit.netlify.app/](https://git-teaching-kit.netlify.app/)
