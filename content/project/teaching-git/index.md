@@ -6,7 +6,8 @@ image:
   focal_point: Smart
 summary: Compiling material to teach Git
 tags:
-- Demo
+- Git
+- Education
 title: Teaching Git and GitHub
 ---
 
