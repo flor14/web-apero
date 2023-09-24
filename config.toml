@@ -30,7 +30,7 @@ enableEmoji = true
 [params]
   orgName = "Florencia D'Andrea"
   orgLocal = ""
-  description = "Postdoc - Master of Data Science Program - University of British Columnbia"
+  description = "Data analyst - Research software developer - Biology, Ph. D. - Educator"
   favicon = "/img/branch-with-a-leaf-and-a-seed.ico"
   logo = "/img/branch-with-a-leaf-and-a-seed-large.png"
   mainSections = [] #podria ser una lista de secciones "blog"
@@ -115,11 +115,11 @@ enableEmoji = true
    title = "Blog"
    url = "/blog/"
    weight = 2
-  [[menu.header]]
-    name = "Projects"
-    title = "Project Portfolio"
-    url = "/project/"
-    weight = 2
+#  [[menu.header]]
+#    name = "Projects"
+#    title = "Project Portfolio"
+#    url = "/project/"
+#    weight = 2
  #[[menu.header]]
  #  name = "Talks"
  #  title = "Talks"

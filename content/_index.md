@@ -1,7 +1,7 @@
 ---
 title: "Florencia D'Andrea"
-subtitle: "Postdoctoral Fellow - Master of Data Science program"
-description: "University of British Columbia"
+subtitle: "Data analyst - research software developer - Educator - Ecological Risk Asssessment, Ph.D."
+description: "Vancouver, Canada"
 images:
   - img/vancouver_pic.jpg
 image_left: false
